@@ -1,0 +1,14 @@
+<html>
+  <head>                                                <!-- information about the page -->
+    <title>Hello World</title>
+
+  </head>
+
+  <body>                                                    <!-- actual content -->
+    <h1>Hello world</h1>
+
+    <p>My first webpage <br/> Look at me now <hr/> </p>     <!-- br moves to new line; hr add horizontal line -->
+
+    <img src="image.bmp" width="100%"/>
+  </body>
+</html>
