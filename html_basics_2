@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <title>This is a website</title>
+
+  </head>
+
+  <body>
+
+    <a href="http://google.com">                  <!-- hyperlink to google -->
+      Go somewhere
+    </a>
+
+    <ul>                              <!-- ul tags give bullet points; ol tag gives numbered list -->
+      <li> 1 </li>
+      <li> 2 </li>
+      <li> 3 and... </li>
+      <li> to the 4 </li>
+    </ul>
+
+    <ol>                              <!-- ul tags give bullet points; ol tag gives numbered list -->
+      <li>  </li>
+      <li> </li>
+      <li> and to the </li>
+      <li>  </li>
+    </ol>
+
+    <img src="image.bmp" alt="who got this"/>       <!-- alt must be there -->
+
+    <div>
+    </div>
+
+  </body>
+</html>
